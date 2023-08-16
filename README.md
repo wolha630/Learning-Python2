@@ -1,1 +1,1 @@
-# Learning-Python2
+# 파이썬 배우기2
